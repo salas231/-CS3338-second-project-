@@ -1,0 +1,45 @@
+commit 3aa999cd44c1a3692cdcee9155d89fb905a4a684
+Merge: bf8b11f a662bba
+Author: Salas231 <bsalas20@calstatela.edu>
+Date:   Thu Sep 10 22:30:19 2026 -0700
+
+    Resolve merge conflict
+
+commit a662bbafd100d3369d0555e96042b11f3a2ec439
+Author: Salas231 <bsalas20@calstatela.edu>
+Date:   Thu Sep 10 22:22:08 2026 -0700
+
+    Add favorite movie or game
+
+commit bf8b11f2c869539c341993ff919f04def18241d2
+Author: Salas231 <bsalas20@calstatela.edu>
+Date:   Thu Sep 10 22:17:39 2026 -0700
+
+    Add Favorite food
+
+commit 3b98f18b85c8d83017ab010809362289a412ab24
+Author: Salas231 <bsalas20@calstatela.edu>
+Date:   Thu Sep 10 22:09:39 2026 -0700
+
+    Add README
+
+commit 255267668169cfd236ec4072ac05cf389c2a9568
+Merge: 1d2bfc0 c6905d1
+Author: salas231 <bsalas20@calstatela.edu>
+Date:   Thu Sep 10 21:45:33 2026 -0700
+
+    Merge pull request #1 from salas231/info-fill
+    
+    Fill in index.html
+
+commit c6905d12e45a5786c6595dd026272a241fa3be0b
+Author: Salas231 <bsalas20@calstatela.edu>
+Date:   Thu Sep 10 20:02:07 2026 -0700
+
+    Fill in index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
